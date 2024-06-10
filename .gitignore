@@ -1,0 +1,14 @@
+/cmake-build/
+/cmake-build-debug/
+CMakeLists.txt
+*.orig
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+*.log
+.idea/
+*.iml
+*.iws
