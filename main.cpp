@@ -13,6 +13,7 @@ int main(int argc, char *argv[])
         {
             std::cout << "Help:" << std::endl;
             std::cout << "Syntax: pomodoro [-h (this Site)] [-s {Session duration in minutes}] [-b {Break duration in minutes}]" << std::endl;
+            return 0;
         }
         else if (std::strcmp(argv[n], "-s") == 0)
         {
