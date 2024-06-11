@@ -5,3 +5,5 @@ A simple Pomodoro Timer for terminal emulators using ANSI Escape Codes.
 
 Syntax: 
   pomodoro [-h (this Site)] [-s {Session duration in minutes}] [-b {Break duration in minutes}]
+
+  Example: "./pomodoro -s 15 -b 5" Launches a 15 minute session followed by a 5 minute break.
